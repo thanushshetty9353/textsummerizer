@@ -1,0 +1,1 @@
+hello i am learning django. and i am happy that completed i completed my first task in django ...which is very nice and its really good framework.

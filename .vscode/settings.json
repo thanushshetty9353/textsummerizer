@@ -1,0 +1,8 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 5501
+
+}
